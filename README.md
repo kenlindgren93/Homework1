@@ -4,16 +4,14 @@
 
 ## Overview and Origin
 
-Name of company: 
-> Acorns
-When was the company incorporated?: 
-> 2012
-Who are the founders of the company?: 
- >   Jeffrey and Walter Cruttenden
-How did the idea for the company come about?:
- >   At a the age of 11, Walter had taught Jeffrey the importance of investment wisdom. When Jeffrey went to college, he was "surprised at how many of my peers had interest in investing but couldn’t overcome the barriers in their way, such as high minimum balance requirements and fees" (1). From there, he and his father worked together to make investing simple with a realistic and easy-to-follow approach. 
-How is the company funded? How much funding have they received?:
- >   Acorns makes money via subscription services:
+* Name of company: Acorns
+* When was the company incorporated?: 2012
+* Who are the founders of the company?: 
+    Jeffrey and Walter Cruttenden
+* How did the idea for the company come about?:
+    At a the age of 11, Walter had taught Jeffrey the importance of investment wisdom. When Jeffrey went to college, he was "surprised at how many of my peers had interest in investing but couldn’t overcome the barriers in their way, such as high minimum balance requirements and fees" (1). From there, he and his father worked together to make investing simple with a realistic and easy-to-follow approach. 
+* How is the company funded? How much funding have they received?:
+    Acorns makes money via subscription services:
     * $1/month = Allows members to invest their change into ETFs
     * $2/month = Allows members to create IRAs on the platform
     * $3/month = Members are provided with a debit card
@@ -59,6 +57,7 @@ How is the company funded? How much funding have they received?:
     The selling point for this company has been the "set it and forget it" strategy and a user interface that keeps things simple and easy. Their main customers are beginner investors, some who have been dragging their feet to start investing. Any friction in this process could be enough to drive some away. The focus should be keeping that ease of access while adding an extra element for the ones with more experience.
 
 References:
+
 (1) Carlozo, Lou. May 20, 2020. How We Save: Acorns Co-founder Jeff Cruttenden Wants to Make Investing Easy For Everyone. Money Under 30. https://www.moneyunder30.com/how-we-save-jeff-cruttenden-acorns
 
 (2) Mason, Thomas. November 30, 2017. Acorns' AUM Growth Thesis Looking Good Following PayPal Pact. S&P Global. https://www.spglobal.com/marketintelligence/en/news-insights/trending/1q6cilxcgznzv3rs7we_da2
