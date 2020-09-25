@@ -5,10 +5,8 @@
 ## Overview and Origin
 
 * Name of company: 
-
-Acorns
-* When was the company incorporated?:
-2012
+  Acorns
+* When was the company incorporated?: 2012
 * Who are the founders of the company?: 
     Jeffrey and Walter Cruttenden
 * How did the idea for the company come about?:
