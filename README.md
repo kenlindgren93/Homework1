@@ -4,8 +4,8 @@
 
 ## Overview and Origin
 
-* Name of company: \s\s
-Acorns
+* Name of company: 
+> Acorns
 * When was the company incorporated?: 2012
 * Who are the founders of the company?: 
     Jeffrey and Walter Cruttenden
