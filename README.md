@@ -1,6 +1,6 @@
 # Acorns
 
-![alt Acorns image](Acorns.jpg)
+![alt Acorns image](Acorns.png)
 
 ## Overview and Origin
 
