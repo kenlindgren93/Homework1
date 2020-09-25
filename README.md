@@ -4,16 +4,16 @@
 
 ## Overview and Origin
 
-* Name of company: 
+Name of company: 
 > Acorns
-* When was the company incorporated?: 
+When was the company incorporated?: 
 > 2012
-* Who are the founders of the company?: 
+Who are the founders of the company?: 
  >   Jeffrey and Walter Cruttenden
-* How did the idea for the company come about?:
-    At a the age of 11, Walter had taught Jeffrey the importance of investment wisdom. When Jeffrey went to college, he was "surprised at how many of my peers had interest in investing but couldn’t overcome the barriers in their way, such as high minimum balance requirements and fees" (1). From there, he and his father worked together to make investing simple with a realistic and easy-to-follow approach. 
-* How is the company funded? How much funding have they received?:
-    Acorns makes money via subscription services:
+How did the idea for the company come about?:
+ >   At a the age of 11, Walter had taught Jeffrey the importance of investment wisdom. When Jeffrey went to college, he was "surprised at how many of my peers had interest in investing but couldn’t overcome the barriers in their way, such as high minimum balance requirements and fees" (1). From there, he and his father worked together to make investing simple with a realistic and easy-to-follow approach. 
+How is the company funded? How much funding have they received?:
+ >   Acorns makes money via subscription services:
     * $1/month = Allows members to invest their change into ETFs
     * $2/month = Allows members to create IRAs on the platform
     * $3/month = Members are provided with a debit card
